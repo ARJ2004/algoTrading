@@ -1,0 +1,13 @@
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.ruff_cache/
+.venv/
+.env
+*.sqlite3
+.DS_Store
+node_modules/
+frontend/dist/
+frontend/.vite/
+npm-debug.log*
+runtime_snapshot.json
